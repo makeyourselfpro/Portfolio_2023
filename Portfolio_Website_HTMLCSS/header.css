@@ -1,0 +1,32 @@
+.headerimg{
+  height: 400px;
+  width: 400px;
+}
+header{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 120px;
+}
+.h1{
+  font-size: 70px;
+  margin: 0;
+}
+.p1{
+  font-size: 25px;
+  margin: 0;
+}
+header>section{
+  padding: 0 30px;
+  align-items: start;
+  
+}
+.h1{
+text-align: left;
+}
+.b1{
+  padding: 10px 20px;
+  background-color: green;
+  border: none;
+  margin: 15px 0;
+  border-radius: 5px;
+}

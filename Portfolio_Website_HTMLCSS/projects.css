@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+}
+.img1{
+  height: 300px;
+  width: 600px;
+}
+.link{
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+}
+.projects>main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.projects>main>section>h1{
+  font-size: 30px;
+}
+.projects>main>section>p{
+  font-size: 25px;
+}
+.projects>main>section{
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+}

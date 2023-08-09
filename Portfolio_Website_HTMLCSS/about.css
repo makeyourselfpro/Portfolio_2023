@@ -1,0 +1,22 @@
+.h2{
+  text-align: center;
+}
+.grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 90px;
+}
+section{
+  padding: 10px;
+}
+button{
+  padding: 10px 30px;
+  font-weight: 900;
+  margin: 5px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin-left: 15px;
+  border-radius: 10px;
+}

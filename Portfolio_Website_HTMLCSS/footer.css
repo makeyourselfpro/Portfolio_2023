@@ -1,0 +1,12 @@
+footer{
+  padding: 1px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.imgs{
+  height: 30px;
+  width: 30px;
+  margin: 0 10px;
+  border-radius: 100%;
+}
